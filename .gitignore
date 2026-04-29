@@ -1,0 +1,22 @@
+# Teams Toolkit / Agents Toolkit
+**/env/.env.*.user
+**/env/.env.local
+**/env/.env.playground
+**/.env
+**/appPackage/build/
+**/.deployment/
+**/devTools/
+
+# Python
+**/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+**/node_modules/
+
+# IDE
+.idea/
+*.swp
+.DS_Store
